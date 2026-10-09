@@ -16,4 +16,4 @@ Interested in semiconductor design, digital electronics, embedded systems, and t
 
 ### Connect
 
-[LinkedIn]([YOUR_LINKEDIN_UR](https://www.linkedin.com/in/its-arshraj/)L) · [GitHub](https://github.com/arshrajdev)
+[LinkedIn]((https://www.linkedin.com/in/its-arshraj/)L) · [GitHub](https://github.com/arshrajdev)
