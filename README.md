@@ -18,4 +18,4 @@ Interested in semiconductor design, digital electronics, embedded systems, and t
 
 [LinkedIn](https://www.linkedin.com/in/its-arshraj/) · [GitHub](https://github.com/arshrajdev)
 
-<img src="banner.png" alt="Arsh Raj - ECE (VLSI) | MAIT, Delhi" width="100%">
+
