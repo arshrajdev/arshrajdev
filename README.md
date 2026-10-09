@@ -1,16 +1,19 @@
-## Hi there 👋
+# Arsh Raj
 
-<!--
-**arshrajdev/arshrajdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electronics Engineering (VLSI Technology) Student @ MAIT, Delhi**
 
-Here are some ideas to get you started:
+Interested in semiconductor design, digital electronics, embedded systems, and the intersection of hardware and software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+
+* Learning C and Python
+* Exploring digital design and embedded systems
+* Building foundational projects and developing practical skills
+
+### Areas of Interest
+
+`VLSI Design` · `Digital Electronics` · `Embedded Systems` · `Artificial Intelligence`
+
+### Connect
+
+[LinkedIn]([YOUR_LINKEDIN_UR](https://www.linkedin.com/in/its-arshraj/)L) · [GitHub](https://github.com/arshrajdev)
