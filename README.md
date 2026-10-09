@@ -1,3 +1,4 @@
+![image alt](https://github.com/arshrajdev/arshrajdev/blob/25f780dcb35af3a5647cec784f08f876105a55a9/Banner.png)
 # Arsh Raj
 
 **Electronics Engineering (VLSI Technology) Student @ MAIT, Delhi**
